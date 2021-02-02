@@ -1,0 +1,28 @@
+body{
+	font-family: sans-serif;
+    color: black;
+    background-image: url(images/Desert.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-color: #f5f0f0;
+
+}
+ .jumbotron:hover{
+ 	background-color: red;
+     
+ }
+ .container-fluid:hover{
+ 	background-color: #edf2ef;
+ }
+ .h3:hover{
+ 	background-color: #3d3d3c;
+ }
+ .h1:hover{
+ 	background-color:#72736a;
+ }
+#navbarcollapse:hover{
+ 	background-color:red;
+ }
+ #contact:hover{
+ 	background-color:#72736a;
+ }
